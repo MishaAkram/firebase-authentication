@@ -1,12 +1,12 @@
 import React from 'react'
 
-const  Landing= () => (
+const SignUp = () => (
     
         <div>
-            <h1>Landing</h1>
+            <h1>SignUp</h1>
             
         </div>
     
 );
 
-export default Landing;
+export default SignUp;
